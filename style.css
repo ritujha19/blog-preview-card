@@ -17,8 +17,8 @@ body{
 .container{
     background-color:  hsl(0, 0%, 100%); 
     color: hsl(0, 0%, 7%);
-    width:25% ;
-    height: auto;
+    width: 50vh;
+    height: 80vh;
     text-align: left;
     display: flex;
     align-items: center;
