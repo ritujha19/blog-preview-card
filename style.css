@@ -12,12 +12,13 @@ body{
     align-items: center;
     justify-content: center;
     font-family: 'figtree';
+    min-height: 100vh;
 }
 .container{
     background-color:  hsl(0, 0%, 100%); 
     color: hsl(0, 0%, 7%);
-    width: 50vh;
-    height: 80vh;
+    width:25% ;
+    height: auto;
     text-align: left;
     display: flex;
     align-items: center;
@@ -31,6 +32,7 @@ body{
 }
 .article img{
     border-radius: 15px;
+    padding-top: 10px;
 }
 
 .text{
